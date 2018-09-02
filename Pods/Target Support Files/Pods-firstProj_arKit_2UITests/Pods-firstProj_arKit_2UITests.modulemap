@@ -1,0 +1,6 @@
+framework module Pods_firstProj_arKit_2UITests {
+  umbrella header "Pods-firstProj_arKit_2UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

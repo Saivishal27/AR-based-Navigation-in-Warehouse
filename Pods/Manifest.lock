@@ -1,0 +1,20 @@
+PODS:
+  - IndoorAtlas (2.7.0-beta)
+  - IndoorAtlasWayfinding (2.7.0-beta)
+
+DEPENDENCIES:
+  - IndoorAtlas (= 2.7.0-beta)
+  - IndoorAtlasWayfinding (= 2.7.0-beta)
+
+SPEC REPOS:
+  https://github.com/IndoorAtlas/CocoaPods-Specs.git:
+    - IndoorAtlas
+    - IndoorAtlasWayfinding
+
+SPEC CHECKSUMS:
+  IndoorAtlas: 40a0d1a32f5ebc01fc03171573fe54f6d009f819
+  IndoorAtlasWayfinding: ec024c2f484bcf793de57083f84fe681c80814e6
+
+PODFILE CHECKSUM: 2ad338f14307aa0eacaa63b25e4f8567f0f54f7e
+
+COCOAPODS: 1.5.3
